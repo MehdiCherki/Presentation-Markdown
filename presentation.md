@@ -25,14 +25,19 @@ Je m'initie à la programation avec Python pour creer des programmes et des jeux
 ---
 
 ##### Contact
-<small>mehdi.cherki@oclock.school</small>
+<small>mehdi.cherki@oclock.school</small>  
+
+
 <small>Toulouse</small>
 
 
 ##### Hobbies
-<small># Programation</small>
-<small># Photographie</small>
-<small># Marche</small>
+<small># Programation</small>  
+
+<small># Photographie</small>  
+
+<small># Marche</small>  
+
 
 ##### Musique
 <small>[@AphexTwin](https://www.youtube.com/channel/UC4hfA78X-lqiRERBZLTnLBw)</small>
