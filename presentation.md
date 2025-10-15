@@ -45,3 +45,5 @@ Je m'initie à la programation avec Python pour creer des programmes et des jeux
 <small>[@DevendraBanhart](https://www.youtube.com/@devendrabanhart)</small>  
 
 <small>[@JDilla](https://www.youtube.com/channel/UCg6G23d_0Rdx3W5XbxC7N8A)</small>
+
+©MC
